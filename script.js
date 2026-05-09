@@ -13,12 +13,9 @@ const noMessages = [
     "No",
     "Bakit ka nag No?",
     "Awww 😓",
-    "Pag ni-click mo ulit ito na sadboi era ko 😔",
+    "Pag nag no ka pa, ito na sadboi era ko 😔",
     "Malulungkot na ang ferson... 😢",
-    "Please??? 💔",
-    "Walang ganyanan...",
-    "Last chance! 😭",
-    "Kung mahuli mo... 😜"
+    "Kung mahuli mo... 😜🤣"
 ]
 
 const yesTeasePokes = [
