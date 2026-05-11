@@ -11,7 +11,7 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Bakit ka nag No?",
+    "Abah talagang nag No?",
     "At talagang inulit pa 😓",
     "Pag nag no ka pa, ito na sadboi era ko 😔",
     "Malulungkot na ang ferson... 😢",
